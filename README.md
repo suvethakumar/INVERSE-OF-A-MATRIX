@@ -18,7 +18,14 @@ Step 4:
 End the program
 
 ## Program:
+~~~ python
+#Program to find the inverse of a matrix.
+#Developed by: suvetha.k
+#RegisterNumber:25014616
+import numpy as np
+A=np.array([[1,0,3],[-1,2,-2],[2,3,-1]])
+x=np.linalg.inv(A)
+print(x)
+~~~
 ## Output:
-## Result:
-Thus the inverse of given matrix is successfully solved using python program
 
