@@ -19,7 +19,7 @@ import numpy as np
 A=np.array([[6,2,3],[3,1,1],[10,3,4]])
 
 x=np.linalg.inv(A)
-
+~~~
 print(x)
 ## Output:
 <img width="650" height="348" alt="Screenshot 2026-02-05 161821" src="https://github.com/user-attachments/assets/77a415bb-e7b2-44ca-8573-9e783354035b" />
